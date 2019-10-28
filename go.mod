@@ -1,4 +1,4 @@
-module github.com/fino-digital/GoOse
+module github.com/cutd/GoOse
 
 go 1.13
 
